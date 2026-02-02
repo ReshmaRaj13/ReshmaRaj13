@@ -2,7 +2,7 @@
 
 I am a Machine Learning Engineer with 2+ years of experience and a strong background in **Computer Vision, Natural Language Processing, and Generative AI**, and I hold a Master’s degree in **Electrical Engineering (Signal Processing & Communication)** from **IIT Tirupati**.
 
-I have industry and startup experience building real-world AI systems across vision, language, and audio domains. I enjoy developing **end-to-end machine learning pipelines**—from data preparation and model training to real-time inference and cloud deployment.
+I have experience in building real-world AI systems across vision, language, and audio domains. I enjoy developing **end-to-end machine learning pipelines**—from data preparation and model training to real-time inference and cloud deployment.
 
 ---
 
